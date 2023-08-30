@@ -5,8 +5,7 @@ function Router() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path="/" element={<></>}>
-        </Route>
+        <Route exact path="/" element={<></>}></Route>
       </Routes>
     </BrowserRouter>
   );
